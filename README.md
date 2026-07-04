@@ -1,4 +1,4 @@
-# Marvalanimations - Interactive Hand-Gesture Flower Animator
+# Floweranimations - Interactive Hand-Gesture Flower Animator
 
 An interactive, real-time computer vision application that generates and grows beautiful, procedural flowers directly from your hands using your webcam!
 
